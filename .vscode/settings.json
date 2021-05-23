@@ -1,5 +1,4 @@
 {
-    "azureML.defaultWorkspaceId": "/subscriptions/27549634-3f0f-4850-8683-2ee39f587023/resourceGroups/pedok-ml-resourcegroup/providers/Microsoft.MachineLearningServices/workspaces/pedok-ml-workspace",
     "python.pythonPath": "C:\\Users\\cttin\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
-    "jupyter.jupyterServerType": "remote"
+    "jupyter.jupyterServerType": "local"
 }
